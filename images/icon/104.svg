@@ -1,5 +1,12 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M16.6665 2.5H3.33317C2.4127 2.5 1.6665 3.24619 1.6665 4.16667V12.5C1.6665 13.4205 2.4127 14.1667 3.33317 14.1667H16.6665C17.587 14.1667 18.3332 13.4205 18.3332 12.5V4.16667C18.3332 3.24619 17.587 2.5 16.6665 2.5Z" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M6.6665 17.5H13.3332" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10 14.1665V17.4998" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 20 20" style="enable-background:new 0 0 20 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<path class="st0" d="M2.2,3.7l5.6,5.6c1.2,1.2,3.2,1.2,4.4,0l5.6-5.6c0.1-0.1,0-0.1,0-0.2c-0.6-0.4-1.3-0.6-2-0.6H4.2
+	c-0.7,0-1.4,0.2-2,0.6C2.2,3.5,2.2,3.6,2.2,3.7L2.2,3.7z M0.7,6.3c0-0.6,0.1-1.1,0.4-1.6c0-0.1,0.1-0.1,0.2,0l5.5,5.5
+	c1.7,1.7,4.6,1.7,6.3,0l5.5-5.5c0.1-0.1,0.2,0,0.2,0c0.3,0.5,0.4,1,0.4,1.6v7.3c0,1.9-1.6,3.5-3.5,3.5H4.2c-1.9,0-3.5-1.6-3.5-3.5
+	L0.7,6.3z"/>
 </svg>
