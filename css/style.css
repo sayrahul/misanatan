@@ -131,6 +131,7 @@ code,
 kbd,
 samp,
 pre {
+  
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   /* 1 */
   font-size: 1em;
@@ -10107,7 +10108,7 @@ code {
 }
 
 .text-\[rgba\(10\2c 10\2c 10\2c 0\.24\)\] {
-  color: rgba(10,10,10,0.24);
+  color: rgba(242,102,34);
 }
 
 .text-\[rgba\(14\2c 14\2c 14\2c 0\.8\)\] {
@@ -10163,7 +10164,7 @@ code {
 }
 
 .text-\[var\(--blue-dark\)\] {
-  color: var(--blue-dark);
+  color: black;
 }
 
 .text-\[var\(--blue-light\)\] {
@@ -10663,7 +10664,7 @@ code {
 .theme-menu-one .navbar-nav .nav-item:hover > .nav-link,
 .theme-menu-one .navbar .dropdown-menu .dropdown-item:hover,
 .theme-menu-one .navbar .dropdown-menu .dropdown-item.active {
-  color: var(--blue-dark);
+  color: #ffffff;
 }
 
 .theme-menu-two .navbar-nav .nav-item.active .dropdown-toggle:after,
