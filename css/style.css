@@ -9572,7 +9572,7 @@ code {
 
 .text-\[\#2B2C2E\] {
   --tw-text-opacity: 1;
-  color: rgb(43 44 46 / var(--tw-text-opacity));
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .text-\[\#2C2C2C\] {
@@ -12259,7 +12259,7 @@ ul.product-review-wrape li button[aria-selected="true"]::before {
 .theme-main-menu.sticky-menu.fixed_top.theme-menu-two,
 .theme-main-menu.sticky-menu.fixed_top.theme-menu-three,
   .theme-main-menu.sticky-menu.fixed_top.theme-menu-one {
-    padding: 20px 15px;
+    padding: 0px 33px;
   }
 }
 
@@ -23993,7 +23993,7 @@ ul.product-review-wrape li button[aria-selected="true"]::before {
   }
 
   .xsm\:p-\[30px_15px\] {
-    padding: 30px 15px;
+    padding: 0px 33px;
   }
 
   .xsm\:p-\[30px_15px_10px\] {
