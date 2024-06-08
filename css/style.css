@@ -25,6 +25,8 @@
   --tw-content: '';
 }
 
+
+
 /*
 1. Use a consistent sensible line-height in all browsers.
 2. Prevent adjustments of font size after orientation changes in iOS.
@@ -53,6 +55,31 @@ html {
 }
 
 
+.mntr-txt-en {
+  font-family: 'Mukta', sans-serif;
+  font-size: 18px;
+  word-spacing: 5px;
+  text-align: left;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.mntr-txt-hi-sub-hd {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+  background-color: #F9F9F9;
+  margin: 10px 0px 10px 0px;
+}
+
+.mntr-txt-en b {
+  padding: 2px;
+  background-color: #f5ea2f;
+  color: #000000;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
 
 /*
 1. Remove the margin in all browsers.
@@ -131,7 +158,7 @@ code,
 kbd,
 samp,
 pre {
-  
+
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   /* 1 */
   font-size: 1em;
@@ -439,7 +466,7 @@ video {
 
 body {
   position: relative;
-  font-family: Roboto, sans-serif;
+  font-family: 'Mukta', sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.7em !important;
@@ -8475,6 +8502,12 @@ code {
 .\!font-Rubik {
   font-family: Rubik, sans-serif !important;
 }
+
+
+.\!font-mukta {
+  font-family: Mukta, sans-serif !important;
+}
+
 
 .font-Mukta-Regular {
   font-family: Mukta-Regular;
