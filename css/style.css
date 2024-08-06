@@ -86,20 +86,22 @@ html {
 
 
 .mntr-txt-en {
-  font-family: 'Laila', sans-serif;
+  font-family: "Yatra One", system-ui;
+  color: #000000;
   font-size: 18px;
   word-spacing: 5px;
   text-align: left;
-  display: inline-block;
+  /* display: inline-block; */
   margin: 0 auto;
 }
 
 .mntr-txt-hi-sub-hd {
+  color: #000000;
   font-size: 20px;
   font-weight: bold;
   padding: 5px 0px 5px 0px;
   text-align: center;
-  background-color: #F9F9F9;
+  background-color: #f5ea2f;
   margin: 10px 0px 10px 0px;
 }
 
@@ -10842,7 +10844,7 @@ code {
 .theme-menu-three .navbar-nav .nav-item:hover>.nav-link,
 .theme-menu-three .navbar .dropdown-menu .dropdown-item:hover,
 .theme-menu-three .navbar .dropdown-menu .dropdown-item.active {
-  color: var(--blue-light);
+  color: black;
 }
 
 .dark-style .theme-menu-five .navbar-nav .nav-item .nav-link.active {
