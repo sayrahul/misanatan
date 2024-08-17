@@ -7680,8 +7680,8 @@ code {
 }
 
 .px-\[15px\] {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 .px-\[16px\] {
@@ -8766,7 +8766,7 @@ code {
 }
 
 .text-\[16px\] {
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .text-\[17px\] {
